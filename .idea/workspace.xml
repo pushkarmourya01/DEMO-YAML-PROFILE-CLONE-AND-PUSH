@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="14a89e5d-7f18-48cb-a755-1d3a24e662d9" name="Changes" comment="" />
+    <list default="true" id="14a89e5d-7f18-48cb-a755-1d3a24e662d9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Framework-Full-Course" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Framework-Full-Course" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Framework-Full-Course/Lecture 18/code/profileDemo/src/main/java/in/strikes/profileDemo/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Framework-Full-Course/Lecture 18/code/profileDemo/src/main/java/in/strikes/profileDemo/DemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Framework-Full-Course/Lecture 18/code/profileDemo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Framework-Full-Course/Lecture 18/code/profileDemo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Framework-Full-Course/Lecture 18/code/profileDemo/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Framework-Full-Course/Lecture 18/code/profileDemo/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Framework-Full-Course/Lecture 18/code/profileDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Framework-Full-Course/Lecture 18/code/profileDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Framework-Full-Course/Lecture 18/code/profileDemo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Framework-Full-Course/Lecture 18/code/profileDemo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-Framework-Full-Course/Lecture 18/code/profileDemo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-Framework-Full-Course/Lecture 18/code/profileDemo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,47 +22,134 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Spring-Framework-Full-Course" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "pushkarmourya01"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pushkarmourya01&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/adityatandon15/Spring-Framework-Full-Course.git",
-    "accountId": "3213af66-bf10-41b6-8afb-b2a42875b1aa"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/adityatandon15/Spring-Framework-Full-Course.git&quot;,
+    &quot;accountId&quot;: &quot;3213af66-bf10-41b6-8afb-b2a42875b1aa&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0871714791469003" />
+      <entry key="MS500" value="1.6138678419575303" />
+      <entry key="S2" value="1.885153764579545" />
+      <entry key="S5" value="1.952373907319402" />
+      <entry key="S10" value="1.9758964634287446" />
+      <entry key="S30" value="1.9928128244384582" />
+      <entry key="S60" value="2.1523350138759705" />
+      <entry key="M2" value="4.370135541072253" />
+      <entry key="M5" value="16.530692788065146" />
+      <entry key="M10" value="41.585364517691" />
+      <entry key="M15" value="67.56650859703396" />
+      <entry key="M30" value="128.1302871003461" />
+      <entry key="H1" value="191.86145886765695" />
+      <entry key="H2" value="241.3254436923225" />
+      <entry key="H4" value="272.7647722519632" />
+      <entry key="D1" value="303.3399834845039" />
+      <entry key="W1" value="309.03669733610104" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.13553288519510004" />
+      <entry key="MS500" value="1.1594997804849976" />
+      <entry key="S2" value="1.7446123335584578" />
+      <entry key="S5" value="1.8935913747868554" />
+      <entry key="S10" value="1.946060092651901" />
+      <entry key="S30" value="1.9827666210118955" />
+      <entry key="S60" value="2.1472849967437795" />
+      <entry key="M2" value="4.3675025154104095" />
+      <entry key="M5" value="16.52937391255998" />
+      <entry key="M10" value="41.58436725562617" />
+      <entry key="M15" value="67.56560094600522" />
+      <entry key="M30" value="128.12954981736343" />
+      <entry key="H1" value="191.86094122817164" />
+      <entry key="H2" value="241.32512703512907" />
+      <entry key="H4" value="272.7645955333394" />
+      <entry key="D1" value="303.339951049311" />
+      <entry key="W1" value="309.0366926231073" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3JrnAsVFZNYIHiuAycTKRIlT5yB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/MASTER BLASTER/SPRING_BOOT/11TH_SB_PROFILES_YAML-11TH-LECTURE",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ProfileDemoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ProfileDemoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MASTER BLASTER/SPRING_BOOT/11TH_SB_PROFILES_YAML-11TH-LECTURE&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="ProfileDemoApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.strikes.profileDemo.ProfileDemoApplication" />
+      <module name="profileDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.strikes.profileDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="11TH_SB_PROFILES_YAML-11TH-LECTURE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="11TH_SB_PROFILES_YAML-11TH-LECTURE" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,5 +170,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
